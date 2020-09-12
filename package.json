@@ -1,0 +1,25 @@
+{
+  "name": "My-Resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishoresunder/My-Resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishoresunder/My-Resume/issues"
+  },
+  "homepage": "https://github.com/kishoresunder/My-Resume#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "lodash": "^4.17.20",
+    "normalize.css": "^8.0.1"
+  }
+}
